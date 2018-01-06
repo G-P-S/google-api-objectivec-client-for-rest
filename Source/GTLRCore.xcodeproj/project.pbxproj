@@ -774,7 +774,7 @@
 				4FCC7A1B11EFD9C80097924C /* Tests */,
 				4FA9C7410B72AB1600DA5920 /* Test Tool */,
 				089C167CFE841241C02AAC07 /* Resources */,
-				F4F407651C21C417001B1A59 /* Deps */,
+				F4F407651C21C417001B1A59 /* Dependencies */,
 				089C1671FE841209C02AAC07 /* Frameworks and Libraries */,
 				19C28FB8FE9D52D311CA2CBB /* Products */,
 				F4A872741DAD1ED800D69E09 /* Frameworks */,
@@ -903,7 +903,7 @@
 				345D0DB01DDF80A50044C585 /* OIDURLQueryComponent.h */,
 			);
 			name = AppAuthHeaders;
-			path = ../Deps/AppAuth/Source;
+			path = ../Dependencies/AppAuth/Source;
 			sourceTree = SOURCE_ROOT;
 		};
 		345D0D791DDF80A50044C585 /* iOS */ = {
@@ -1144,7 +1144,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		F4F407651C21C417001B1A59 /* Deps */ = {
+		F4F407651C21C417001B1A59 /* Dependencies */ = {
 			isa = PBXGroup;
 			children = (
 				340DAEEF1D591EB900EC285B /* GTMAppAuth */,
@@ -1152,8 +1152,8 @@
 				340DADFA1D581BBA00EC285B /* AppAuth.xcodeproj */,
 				4FB730D70BE27A92000C493E /* SessionFetcher */,
 			);
-			name = Deps;
-			path = ../Deps;
+			name = Dependencies;
+			path = ../Dependencies;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

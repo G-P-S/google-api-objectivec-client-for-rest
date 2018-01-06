@@ -122,7 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				08FB7795FE84155DC02AAC07 /* Source */,
-				F4469DE71C45703900BCFAA1 /* Deps */,
+				F4469DE71C45703900BCFAA1 /* Dependencies */,
 				08FB779DFE84155DC02AAC07 /* External Frameworks and Libraries */,
 				1AB674ADFE9D54B511CA2CBB /* Products */,
 			);
@@ -200,13 +200,13 @@
 			name = Utilities;
 			sourceTree = "<group>";
 		};
-		F4469DE71C45703900BCFAA1 /* Deps */ = {
+		F4469DE71C45703900BCFAA1 /* Dependencies */ = {
 			isa = PBXGroup;
 			children = (
 				F4469DE81C45705A00BCFAA1 /* SessionFetcher */,
 			);
-			name = Deps;
-			path = ../../../Deps;
+			name = Dependencies;
+			path = ../../../Dependencies;
 			sourceTree = "<group>";
 		};
 		F4469DE81C45705A00BCFAA1 /* SessionFetcher */ = {
